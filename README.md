@@ -1,1 +1,1 @@
-/bin/bash  alx-system engineering-devops
+/bin/bash This repository is for developers
